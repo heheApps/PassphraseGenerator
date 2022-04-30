@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><style name="MyCheckBoxStyle" parent="Widget.AppCompat.CompoundButton.CheckBox">
+    <item name="android:textColor">#9E9E9E</item>
+    <item name="buttonTint">#616161</item>
+    <item name="android:onClick">OnCheckBoxClicked</item>
+</style></resources>

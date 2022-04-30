@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><style name="my_edit_text" parent="Widget.AppCompat.EditText">
+    <item name="android:selectAllOnFocus">true</item>
+</style></resources>
